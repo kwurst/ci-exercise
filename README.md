@@ -9,7 +9,7 @@ Now with TravisCI Integration!
 # Continuous Integration Exercise
 
 ##Fork the Repository
-[https://github.com/CS-Worcester-CS-348-SP-2017/CIExample]()
+[https://github.com/CS-Worcester-CS-348-SP-2017/CIExample](https://github.com/CS-Worcester-CS-348-SP-2017/CIExample)
 
 ## Clone the Repository
 
@@ -37,7 +37,7 @@ java -jar target/CIExample-0.0.1-SNAPSHOT.jar
 ```
 
 ##View Travis CI Builds
-[https://travis-ci.org/CS-Worcester-CS-348-SP-2017/CIExample]()
+[https://travis-ci.org/CS-Worcester-CS-348-SP-2017/CIExample](https://travis-ci.org/CS-Worcester-CS-348-SP-2017/CIExample)
 
 ##Look at Maven Configuration
 Look at the `pom.xml` file in the CIExample
