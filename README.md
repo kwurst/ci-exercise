@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/CS-Worcester-CS-348-SP-2018/ci-exercise.svg?branch=master)](https://travis-ci.org/CS-Worcester-CS-348-SP-2018/ci-exercise)
+[![Build Status](https://travis-ci.org/kwurst/ci-exercise.svg?branch=master)](https://travis-ci.org/kwurst/ci-exercise)
 
 *Version 2018-Spring-1.0-Final, Revised 12 March 2018*
 ### *CS-348 01, 02 &mdash; Spring 2018*
