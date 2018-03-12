@@ -1,4 +1,4 @@
-package CS_348_SP_2017.CIExample;
+package CS_348_SP_2018.CIExercise;
 
 /**
  * Continuous Integration Example
@@ -7,7 +7,7 @@ package CS_348_SP_2017.CIExample;
  * @author Karl R. Wurst
  *
  */
-public class CIExample 
+public class CIExercise 
 {
     public static void main( String[] args )
     {

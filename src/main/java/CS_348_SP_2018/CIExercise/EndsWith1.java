@@ -1,10 +1,10 @@
-package CS_348_SP_2017.CIExample;
+package CS_348_SP_2018.CIExercise;
 
-public class EndsWith6 {
-
+public class EndsWith1 {
+	
 	String names;
 
-	public EndsWith6()  {
+	public EndsWith1()  {
 		names = "";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
@@ -12,7 +12,7 @@ public class EndsWith6 {
 
 	@Override
 	public String toString() {
-		return "EndsWith6 [names=" + names + "]";
+		return "EndsWith1 [names=" + names + "]";
 	}
 
 }
