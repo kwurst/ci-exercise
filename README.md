@@ -85,6 +85,7 @@ Resolve any conflicts
 
 ### Check Travis
 
+
 ## Copyright and License
 #### &copy; 2018 Karl R. Wurst, Worcester State University
 
